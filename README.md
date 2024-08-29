@@ -10,29 +10,9 @@ Así mismo, las categorías dónde el sistema ha sido más rápido capaz de anal
 
 Las categorías con mejor desempeño en ambos atributos combinados (F1-Score y FPS) son: Oclusión, Cobertura de Superficie, Transparencia y Larga Duración.
 
-Las pruebas se realizaron en los siguientes equipos de cómputo:
+Las pruebas se realizaron en el siguiente equipo de cómputo:
 
-DELL XPS 8700:
-- CPU: Intel Core i7-4790
-  - Reloj: 3.60GHz
-  - Hilos: 8
-  - Núcleos: 4
-  - 64 bits
-- GPU: AMD Radeon R9 270
-  - Núcleos: 1280
-  - Reloj: 900MHz
-
-Modelo de laptop desconocido:
-- CPU: AMD FX-6100
-  - Reloj: 3.3GHz
-  - Hilos: 6
-  - Núcleos: 6
-  - 64 bits
-- GPU: NVDIA GeForce GTX-680
-  - Núcleos: 1536
-  - Reloj: 1006MHz
-
-Lenovo ThinkStation P300
+- Modelo: Lenovo ThinkStation P300
 - CPU: Intel Xeon v3.
   - Reloj: 3.3GHz
   - Hilos: 8
